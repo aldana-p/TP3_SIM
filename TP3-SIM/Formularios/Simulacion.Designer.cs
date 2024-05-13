@@ -238,6 +238,11 @@
             0,
             0});
             this.txtOferta.Location = new System.Drawing.Point(224, 39);
+            this.txtOferta.Maximum = new decimal(new int[] {
+            10000000,
+            0,
+            0,
+            0});
             this.txtOferta.Name = "txtOferta";
             this.txtOferta.Size = new System.Drawing.Size(92, 24);
             this.txtOferta.TabIndex = 1;
